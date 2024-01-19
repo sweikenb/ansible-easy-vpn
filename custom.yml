@@ -1,0 +1,4 @@
+username: "henryfoo"
+root_host: "klingel.tuerscharnier.net"
+dns_nameservers: "cloudflare"
+enable_ssh_keygen: true
